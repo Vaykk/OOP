@@ -17,7 +17,7 @@ void main()
 {
 	book a;
 	a.show();
-	book b("Captain`s drochka", "Pushkin", 228);
+	book b("Captain`s dochka", "Pushkin", 228);
 	b.show();
 	book c = b;
     c.show();
